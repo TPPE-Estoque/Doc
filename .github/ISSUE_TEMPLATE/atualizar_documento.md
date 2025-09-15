@@ -1,7 +1,8 @@
 ---
-name: '🔄 Atualização ou Correção em Documento Existente'
-title: '[DOC] Atualizar: '
-labels: 'ação: atualizar'
+name: Template Issue Atualizar Documentação
+about: Template para as issues de atualizar documentação.
+title: ''
+labels: ''
 assignees: ''
 ---
 

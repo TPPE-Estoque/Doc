@@ -1,7 +1,8 @@
 ---
-name: '📝 Criação de Novo Documento ou Artefato'
-title: '[DOC] Criar: '
-labels: 'ação: criar'
+name: Template Issue Documentação
+about: Template para as issues de documentação.
+title: ''
+labels: ''
 assignees: ''
 ---
 
