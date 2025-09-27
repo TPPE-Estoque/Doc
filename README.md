@@ -12,8 +12,9 @@ A principal motivação deste trabalho é aprofundar e consolidar o aprendizado 
 
 ## Repositórios do Projeto
 
--   **[⚙️ Backend](https://github.com/TPPE-Estoque/Backend)**
--   **[🖥️ Frontend](https://github.com/TPPE-Estoque/Frontend)**
+- **[⚙️ Backend](https://github.com/TPPE-Estoque/Backend)**
+- **[🖥️ Frontend](https://github.com/TPPE-Estoque/Frontend)**
+- **[📌 Sistema Original](https://github.com/Marcosatc147/OO-UnB---2023.1---Gerenciamento-de-Estoque-)**
 
 ## Desenvolvedor
 
@@ -37,16 +38,19 @@ A principal motivação deste trabalho é aprofundar e consolidar o aprendizado 
 <p align="left">
 
 **Passo 1 -** Clone este repositório:
+
 ```bash
 git clone https://github.com/TPPE-Estoque/Doc.git
 ```
 
 **Passo 2 -** Instale a ferramenta de linha de comando do Docsify (caso não tenha):
+
 ```bash
 npm i docsify-cli -g
 ```
 
 **Passo 3 -** Na pasta raiz do repositório, execute o servidor do Docsify:
+
 ```bash
 docsify serve docs
 ```
