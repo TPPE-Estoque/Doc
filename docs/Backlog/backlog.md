@@ -188,5 +188,3 @@ Este documento contém as histórias de usuário derivadas da modelagem do siste
 
 **Status:** A Fazer  
 **Tipo:** Funcionalidade  
-
----
