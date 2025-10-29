@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento apresenta o **protótipo de média e alta fidelidade** da interface do usuário (UI) do **Sistema de Gerenciamento de Estoque**.  
+Este documento apresenta o **protótipo de alta fidelidade** da interface do usuário (UI) do **Sistema de Gerenciamento de Estoque**.  
 O objetivo desta versão é **validar o fluxo de navegação, usabilidade e estrutura visual** das principais funcionalidades definidas no backlog e no diagrama de classes.
 
 ## 1. Tela de Login
