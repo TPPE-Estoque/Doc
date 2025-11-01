@@ -14,6 +14,7 @@ A principal motivação deste trabalho é aprofundar e consolidar o aprendizado 
 
 - **[⚙️ Backend](https://github.com/TPPE-Estoque/Backend)**
 - **[🖥️ Frontend](https://github.com/TPPE-Estoque/Frontend)**
+- **[🔑 Serviço de Autenticação](https://github.com/TPPE-Estoque/Auth)**
 - **[📌 Projeto de Orientação a Objetos (OO) - 2023.1](https://github.com/Marcosatc147/OO-UnB---2023.1---Gerenciamento-de-Estoque-)**
 
 ## Desenvolvedor
