@@ -12,7 +12,7 @@ A principal motivação deste trabalho é aprofundar e consolidar o aprendizado 
 
 ## Repositórios do Projeto
 
-- **[⚙️ Backend](https://github.com/EcoStock-organization/Backend)**
+- **[⚙️ Backend](https://github.com/EcoStock-organization/ecostock-backend)**
 - **[🖥️ Frontend](https://github.com/EcoStock-organization/ecostock-frontend)**
 - **[🔑 Serviço de Autenticação](https://github.com/EcoStock-organization/Auth)**
 - **[📌 Projeto de Orientação a Objetos (OO) - 2023.1](https://github.com/Marcosatc147/OO-UnB---2023.1---Gerenciamento-de-Estoque-)**
