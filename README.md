@@ -12,9 +12,9 @@ A principal motivação deste trabalho é aprofundar e consolidar o aprendizado 
 
 ## Repositórios do Projeto
 
-- **[⚙️ Backend](https://github.com/TPPE-Estoque/Backend)**
-- **[🖥️ Frontend](https://github.com/TPPE-Estoque/Frontend)**
-- **[🔑 Serviço de Autenticação](https://github.com/TPPE-Estoque/Auth)**
+- **[⚙️ Backend](https://github.com/EcoStock-organization/Backend)**
+- **[🖥️ Frontend](https://github.com/EcoStock-organization/Frontend)**
+- **[🔑 Serviço de Autenticação](https://github.com/EcoStock-organization/Auth)**
 - **[📌 Projeto de Orientação a Objetos (OO) - 2023.1](https://github.com/Marcosatc147/OO-UnB---2023.1---Gerenciamento-de-Estoque-)**
 
 ## Desenvolvedor
@@ -41,7 +41,7 @@ A principal motivação deste trabalho é aprofundar e consolidar o aprendizado 
 **Passo 1 -** Clone este repositório:
 
 ```bash
-git clone https://github.com/TPPE-Estoque/Doc.git
+git clone https://github.com/EcoStock-organization/Doc.git
 ```
 
 **Passo 2 -** Instale a ferramenta de linha de comando do Docsify (caso não tenha):
