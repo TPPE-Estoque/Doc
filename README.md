@@ -41,7 +41,7 @@ A principal motivação deste trabalho é aprofundar e consolidar o aprendizado 
 **Passo 1 -** Clone este repositório:
 
 ```bash
-git clone https://github.com/EcoStock-organization/Doc.git
+git clone https://github.com/EcoStock-organization/ecostock-docs.git
 ```
 
 **Passo 2 -** Instale a ferramenta de linha de comando do Docsify (caso não tenha):
